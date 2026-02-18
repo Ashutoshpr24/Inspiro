@@ -20,7 +20,9 @@ Inspiro is a simple and elegant Android motivation app that displays powerful da
 
 <p align="center">
   <img src="inspiro.png" width="250">
-  <img src="homepage.jpeg" width="300">
+  <img src="quote1.jpeg" width="300">
+  <img src="quote2.jpeg" width="300">
+  <img src="quote3.jpeg" width="300">
 </p>
 
 ---
