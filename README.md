@@ -32,32 +32,6 @@ Inspiro is a simple and elegant Android motivation app that displays powerful da
 
 ---
 
-## 📂 Project Structure
-
-myapplication/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── myapplication/
-│   │   │   │       └── MainActivity.java
-│   │   │   │
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   │   └── activity_main.xml
-│   │   │   │   ├── values/
-│   │   │   │   │   └── strings.xml
-│   │   │   │   ├── font/ (if using custom fonts)
-│   │   │   │   └── mipmap/
-│   │   │   │
-│   │   │   └── AndroidManifest.xml
-│   │
-│   └── build.gradle
-│
-└── README.md
-
----
-
 ## 🛠 Installation
 
 1. Clone the repository
