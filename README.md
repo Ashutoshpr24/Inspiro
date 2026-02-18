@@ -18,8 +18,10 @@ Inspiro is a simple and elegant Android motivation app that displays powerful da
 
 ## 📱 App Preview
 
-### 📜 Quote Display
-![Quote Screenshot](inspiro.png)
+<p align="center">
+  <img src="homepage.jpeg" width="250">
+  <img src="inspiro.png" width="250">
+</p>
 
 ---
 
